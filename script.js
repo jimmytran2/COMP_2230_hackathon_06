@@ -18,19 +18,29 @@ addTaskButtonNode.addEventListener("click", () => {
 
     // clears tasks input box every time you add the task
     taskInputNode.value = "";
+
+    // creates the task listed as a cookie
     createCookies();
     console.log(document.cookie);
 });
 
 
 function createCookies(){
+
+    // list to store cookies
     const taskList = [];
+
+    // selects list items, adds to taskList
     taskListNode.querySelectorAll("li").forEach((task) => {
         taskList.push(task.textContent);
     });
+
+    // calls setCookie function to create the cookies using taskList
     setCookie("task", taskList, 7);
 }
 
+
+// function to set cookies 
 function setCookie(name, value, days){
     let expires = "";
 
