@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+To-Do List with cookies
 
 ## Team Members:
 
@@ -14,7 +14,7 @@
 
 ### Name 1: Jimmy Tran
 
--   HTML structure
+-   HTML structure, to-do list js functionality
 
 ### Name 2:
 

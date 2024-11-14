@@ -36,7 +36,7 @@ function createCookies(){
     });
 
     // calls setCookie function to create the cookies using taskList
-    setCookie("task", taskList, 7);
+    setCookie("tasks", taskList, 7);
 }
 
 
