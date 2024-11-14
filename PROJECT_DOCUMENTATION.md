@@ -14,7 +14,7 @@
 
 ### Name 1: Jimmy Tran
 
--   Worked on [specific elements] of the webpage.
+-   HTML structure
 
 ### Name 2:
 
