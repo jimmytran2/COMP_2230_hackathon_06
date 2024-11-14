@@ -7,7 +7,7 @@ To-Do List with cookies
 ## Team Members:
 
 -   Jimmy Tran
--   Name 2
+-   Heuone Castillo
 -   Name 3
 
 ## Member Contributions:
@@ -16,9 +16,9 @@ To-Do List with cookies
 
 -   HTML structure, to-do list js functionality
 
-### Name 2:
+### Name 2: Heuone Castillo
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Was responsible for the deleteCookie function, and added a remove button to remove tasks from the task list.
 
 ### Name 3:
 
