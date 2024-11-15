@@ -8,7 +8,7 @@ To-Do List with cookies
 
 -   Jimmy Tran
 -   Heuone Castillo
--   Name 3
+-   Sapana Mehta
 
 ## Member Contributions:
 
@@ -22,4 +22,4 @@ To-Do List with cookies
 
 ### Name 3:
 
--   Handled [specific sections], covering [specific topics or features].
+-   Handled css styling 
